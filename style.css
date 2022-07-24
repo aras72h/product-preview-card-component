@@ -13,7 +13,7 @@
 
 html {
   font-family: var(--typeface-sans-serif);
-  font-size: 14px;
+  font-size: 0.875rem;
 }
 
 * {
@@ -156,12 +156,12 @@ p {
   .card {
     display: flex;
     justify-content: center;
-    max-width: 800px;
+    max-width: 44.44rem;
   }
 
   .product-image {
     border-radius: 0.833rem 0 0 0.833rem;
-    max-width: 400px;
+    max-width: 22.22rem;
   }
 
   .card-body {
@@ -169,11 +169,11 @@ p {
     flex-direction: column;
     justify-content: space-between;
     border-radius: 0 0.833rem 0.833rem 0;
-    width: 400px;
+    width: 22.22rem;
   }
 
   html {
-    font-size: 18px;
+    font-size: 1.125rem;
   }
 
 }
